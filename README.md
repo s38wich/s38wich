@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @s38wich
+- 👀 I’m interested in applied mathematics
+- 🌱 I’m currently learning Elixir
